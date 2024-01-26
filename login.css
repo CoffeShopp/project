@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://img.pikbest.com/backgrounds/20190403/simple-coffee-shop-poster-background-psd_1821295.jpg!sw800");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+h1{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    color: rgb(238, 171, 150);
+    padding:45px ;
+    font-size: 50px;
+}
+
+
+
+.SignIn{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    height: 30%;
+    padding: 20px;
+}
+
+#btn1{
+    background-color: bisque;
+    border-radius: 30px;
+    justify-content: space-between;
+}
